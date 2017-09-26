@@ -1,2 +1,2 @@
-first test file upload from desktop
-"Update with Tortoise�"
+first test file upload from desktop"Updating with GitHub…"
+"Update with Tortoise…"
